@@ -40,5 +40,5 @@ This project is a testament to the power of data analytics in crafting targeted 
 
 # 📊 Live Dashboard : 
 https://lnkd.in/g7SvxJ5Y 
-# LinkIn Post :
+# LinkeIn Post :
 https://www.linkedin.com/feed/update/urn:li:activity:7210592388413603840/
